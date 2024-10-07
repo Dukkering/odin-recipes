@@ -1,0 +1,2 @@
+A basic HTML website following the lessons provided by TheOdinProject.com, with intent to update and add to it during the CSS lessons later in the project.
+The primary purpose is to practice the workflow of creating a project, using and updating via Git and the Command Line, and develop a habit of consistent and regular commits. 
